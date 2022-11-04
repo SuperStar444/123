@@ -1,7 +1,7 @@
 2022-10-23T10:27:54.681418Z  INFO sui::client_commands: 0x7dd83791dd959137c48c724a1c15b9aca95c11fe
 2022-10-23T10:29:25.414454Z  INFO sui::client_commands: [1m----- Certificate ----[0m
 2022-10-23T10:29:25.423935Z  INFO sui::client_commands: Transaction Hash: eAaO9tLCDxEbEj9duTXrekR9latkxnbCZEauq7yT9jE=
-2022-10-23T10:29:25.433184Z  INFO sui::client_commands: Transaction Signature: AQ==@0g+0c7+4Ft02QlVE8P7pRSTN56WXXMYztGIuFjb6PmRVC5//ZZYrZ16XWCKiMUfqboT4h1MpwV6LVkZgrrqgmQE=@AmApnd/EfqIraVcov2eJFE2Vci7O8LLWJgQDHQCjdidq
+2022-10-23T10:29:25.433184Z  INFO sui::client_commands: Transaction Signature: AQ==@0g+0c7+4Ft02QlVE8P7pRSTNasdff56WXXMYztGIuFjb6PmRVC5//ZZYrZ16XWCKiMUfqboT4h1MpwV6LVkZgrrqgmQE=@AmApnd/EfqIraVcov2eJFE2Vci7O8LLWJgQDHQCjdidq
 2022-10-23T10:29:25.434042Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 2]>
 2022-10-23T10:29:25.434636Z  INFO sui::client_commands: Transaction Kind : Call
 2022-10-23T10:29:25.435088Z  INFO sui::client_commands: Package ID : 0x2
